@@ -1,3 +1,3 @@
  Welcome to MY CV
 My name is Musaib khan
-im a system administrator, having experience in linux, windows, cloud
+im a CloudOps Engineer, having experience in Kubernetes,Docker,AWS cloud,linux, windows, cloud
